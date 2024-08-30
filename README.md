@@ -1,16 +1,14 @@
-## Hi there 👋
+#  😊
 
-<!--
-**courtmalone/courtmalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies I Use
 
-Here are some ideas to get you started:
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599c?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23f89820?style=flat&logo=java&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+
+## Projects
+
+
+
