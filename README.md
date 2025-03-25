@@ -11,5 +11,4 @@
 ## Projects
 
 
-![My GitHub Background](https://i.imgur.com/b6yleDO.jpeg)
 
